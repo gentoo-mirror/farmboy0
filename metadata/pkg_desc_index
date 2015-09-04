@@ -3,6 +3,7 @@ dev-libs/json-c 0.11-r2: A JSON implementation in C
 dev-scheme/guile 1.8.8-r3: Scheme interpreter
 dev-util/apitrace 9999: A tool for tracing, analyzing, and debugging graphics APIs
 dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty performance analysis tools
+games-emulation/desmume 0.9.11: Nintendo DS emulator
 games-engines/openmw 0.35.0 0.35.1 0.36.0 0.36.1: An open source reimplementation of TES III: Morrowind
 games-rpg/morrowind-data 2-r1: The Elder Scrolls III: Morrowind - data extractor
 media-libs/mesa 9999: OpenGL-like graphic library for Linux
