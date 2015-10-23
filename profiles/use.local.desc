@@ -2,6 +2,12 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-qt/qtmultimedia:egl - Enable EGL integration
+dev-qt/qtmultimedia:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
+dev-qt/qtmultimedia:gstreamer - Enable audio support via media-libs/gstreamer:1.0
+dev-qt/qtmultimedia:gstreamer010 - Enable audio support via media-libs/gstreamer:0.10
+dev-qt/qtmultimedia:qml - Build QML/QtQuick bindings and imports
+dev-qt/qtmultimedia:widgets - Build the QtMultimediaWidgets module
 dev-scheme/guile:debug-freelist - Include garbage collector freelist debugging code
 dev-scheme/guile:debug-malloc - Include malloc debugging code
 dev-scheme/guile:deprecated - Enable deprecated features
