@@ -1,4 +1,5 @@
 app-benchmarks/phoronix-test-suite 5.0.1 5.2.0 5.2.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
+app-doc/zeal 0.1.1-r1: Offline documentation browser inspired by Dash
 dev-libs/json-c 0.11-r2: A JSON implementation in C
 dev-qt/qtmultimedia 5.5.1-r1: The Multimedia module for the Qt5 framework
 dev-scheme/guile 1.8.8-r3: Scheme interpreter
