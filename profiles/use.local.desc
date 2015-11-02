@@ -8,12 +8,6 @@ dev-qt/qtmultimedia:gstreamer - Enable audio support via media-libs/gstreamer:1.
 dev-qt/qtmultimedia:gstreamer010 - Enable audio support via media-libs/gstreamer:0.10
 dev-qt/qtmultimedia:qml - Build QML/QtQuick bindings and imports
 dev-qt/qtmultimedia:widgets - Build the QtMultimediaWidgets module
-dev-scheme/guile:debug-freelist - Include garbage collector freelist debugging code
-dev-scheme/guile:debug-malloc - Include malloc debugging code
-dev-scheme/guile:deprecated - Enable deprecated features
-dev-scheme/guile:discouraged - (implied by deprecated) enable merely discouraged features
-dev-scheme/guile:networking - Include networking interfaces
-dev-scheme/guile:regex - Include regular expression interfaces
 dev-util/apitrace:cli - Enable command line interface.
 dev-util/apitrace:egl - Enable EGL support
 dev-util/google-perftools:debug - Build a set of libraries with debug support (so-called debugalloc). These are available by default but are not needed unless you're actually developing using tcmalloc.
@@ -21,6 +15,20 @@ dev-util/google-perftools:largepages - Use (experimental) larger pages for tcmal
 dev-util/google-perftools:minimal - Only build the tcmalloc_minimal library, ignoring the heap checker and the profilers.
 games-engines/openmw:devtools - Install development tools like bsatool, esmtool and opencs.
 games-engines/openmw:launcher - Install the launcher for configuring OpenMW.
+media-gfx/blender:boost - Enable features depending on boost.
+media-gfx/blender:bullet - Enable Bullet (Physics Engine).
+media-gfx/blender:collada - Add support for Collada interchange format through media-libs/opencollada.
+media-gfx/blender:colorio - Enable OpenColorIO color management.
+media-gfx/blender:cycles - Build cycles renderer (requires media-libs/openimageio and dev-libs/boost).
+media-gfx/blender:dds - Adds DDS textures support to Blender.
+media-gfx/blender:doc - Build C and Python API documentation directly from the source code.
+media-gfx/blender:elbeem - Adds surface fluid simulation to Blender using El'Beem library.
+media-gfx/blender:game-engine - Adds Game Engine support to Blender.
+media-gfx/blender:ndof - Enable NDOF input devices (SpaceNavigator and friends).
+media-gfx/blender:openimageio - Enable OpenImageIO Support
+media-gfx/blender:opennl - Enable use of Open Numerical Library
+media-gfx/blender:player - Build the Blender Player. THis requires the Game engine.
+media-gfx/blender:redcode - This flag add support for RED CODE camera digital format (5K HD images *.r3d) - EXPERIMENTAL.
 media-libs/mesa:bindist - Disable patent-encumbered ARB_texture_float, EXT_texture_shared_exponent, and EXT_packed_float extensions.
 media-libs/mesa:classic - Build drivers based on the classic architecture.
 media-libs/mesa:d3d9 - Enable the Gallium3D state tracker for Direct3D 9.
