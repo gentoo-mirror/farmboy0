@@ -2,7 +2,7 @@ app-benchmarks/phoronix-test-suite 5.0.1 5.2.0 5.2.1: Phoronix's comprehensive, 
 app-doc/zeal 0.1.1-r1 0.2.0: Offline documentation browser inspired by Dash
 app-laptop/radeontool 9999: Manage the backlight, external video output and registers of ATI Radeon graphics cards
 dev-libs/json-c 0.11-r2: A JSON implementation in C
-dev-qt/qtmultimedia 5.5.1-r1: The Multimedia module for the Qt5 framework
+dev-qt/qtmultimedia 5.5.1-r1 5.5.1-r2: The Multimedia module for the Qt5 framework
 dev-util/apitrace 9999: A tool for tracing, analyzing, and debugging graphics APIs
 dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty performance analysis tools
 games-emulation/desmume 0.9.11: Nintendo DS emulator
