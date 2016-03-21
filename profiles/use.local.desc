@@ -58,6 +58,9 @@ www-client/palemoon:system-cairo - Use the system-wide x11-libs/cairo Use system
 www-client/palemoon:system-icu - Use the system-wide dev-libs/icu Use system icu instead of bundled.
 www-client/palemoon:system-jpeg - Use the system-wide media-libs/libjpeg-turbo Use system jpeg instead of bundled.
 www-client/palemoon:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled
+x11-drivers/ati-drivers:gles2 - Enable GLESv2 support.
+x11-drivers/ati-drivers:opencl - Enable OpenCL support.
+x11-drivers/ati-drivers:vulkan - Install the vulkan ICD.
 x11-drivers/xf86-video-ati:dri3 - Build with DRI3 support(always on)
 x11-drivers/xf86-video-ati:glamor - Enable Glamor OpenGL 2D acceleration
 x11-libs/wxGTK:gnome - Use gnome-base/libgnomeprintui for printing tasks.
