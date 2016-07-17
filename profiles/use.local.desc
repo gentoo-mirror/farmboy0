@@ -12,8 +12,6 @@ dev-util/apitrace:egl - Enable EGL support
 dev-util/google-perftools:debug - Build a set of libraries with debug support (so-called debugalloc). These are available by default but are not needed unless you're actually developing using tcmalloc.
 dev-util/google-perftools:largepages - Use (experimental) larger pages for tcmalloc, this increases memory usage, but should speed up the allocation/free operations.
 dev-util/google-perftools:minimal - Only build the tcmalloc_minimal library, ignoring the heap checker and the profilers.
-games-engines/openmw:devtools - Install development tools like bsatool, esmtool and opencs.
-games-engines/openmw:launcher - Install the launcher for configuring OpenMW.
 media-gfx/blender:boost - Enable features depending on boost.
 media-gfx/blender:bullet - Enable Bullet (Physics Engine).
 media-gfx/blender:collada - Add support for Collada interchange format through media-libs/opencollada.
@@ -50,17 +48,9 @@ media-libs/mesa:wayland - Enable support for dev-libs/wayland
 media-libs/mesa:xa - Enable the XA (X Acceleration) API for Gallium3D.
 media-libs/mesa:xvmc - Enable the XvMC acceleration interface for the Gallium3D Video Layer.
 sys-process/procps:ncurses - Build programs that use ncurses: top, slabtop, watch
-www-client/palemoon:bindist - Disable official Firefox branding (icons, name) which are not binary-redistributable according to upstream.
-www-client/palemoon:custom-optimization - Fine-tune custom compiler optimizations (-Os, -O0, -O1, -O2, -O3)
-www-client/palemoon:minimal - Prevent sdk and headers from being installed
-www-client/palemoon:pgo - Add support for profile-guided optimization using gcc-4.5, for faster binaries. This option will double the compile time.
-www-client/palemoon:system-cairo - Use the system-wide x11-libs/cairo Use system cairo instead of bundled.
-www-client/palemoon:system-icu - Use the system-wide dev-libs/icu Use system icu instead of bundled.
-www-client/palemoon:system-jpeg - Use the system-wide media-libs/libjpeg-turbo Use system jpeg instead of bundled.
-www-client/palemoon:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled
-x11-drivers/ati-drivers:gles2 - Enable GLESv2 support.
-x11-drivers/ati-drivers:opencl - Enable OpenCL support.
-x11-drivers/ati-drivers:vulkan - Install the vulkan ICD.
+x11-drivers/amdgpu-pro:gles2 - Enable GLESv2 support.
+x11-drivers/amdgpu-pro:opencl - Enable OpenCL support.
+x11-drivers/amdgpu-pro:vulkan - Install the vulkan ICD.
 x11-drivers/xf86-video-ati:dri3 - Build with DRI3 support(always on)
 x11-drivers/xf86-video-ati:glamor - Enable Glamor OpenGL 2D acceleration
 x11-libs/wxGTK:gnome - Use gnome-base/libgnomeprintui for printing tasks.
