@@ -8,6 +8,7 @@ dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty perfor
 games-emulation/desmume 0.9.11: Nintendo DS emulator
 games-rpg/morrowind-data 2-r1: The Elder Scrolls III: Morrowind - data extractor
 media-gfx/blender 2.76: 3D Creation/Animation/Publishing System
+media-libs/gimp-dds 3.0.1: DirectDraw Surface (DDS) format plugin for Gimp 2
 media-libs/mesa 9999: OpenGL-like graphic library for Linux
 media-libs/smjpeg 9999: SDL Motion JPEG Library
 media-libs/vulkan-base 9999: Official Vulkan headerfiles, loader, validation layers and sample binaries
