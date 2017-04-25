@@ -1,7 +1,6 @@
 app-benchmarks/phoronix-test-suite 5.0.1 5.2.0 5.2.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-laptop/radeontool 9999: Manage the backlight, external video output and registers of ATI Radeon graphics cards
 dev-libs/json-c 0.11-r2: A JSON implementation in C
-dev-qt/qtmultimedia 5.5.1-r1 5.5.1-r2: The Multimedia module for the Qt5 framework
 dev-util/apitrace 9999: A tool for tracing, analyzing, and debugging graphics APIs
 dev-util/google-breakpad 9999: An open-source multi-platform crash reporting system
 dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty performance analysis tools
