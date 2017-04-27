@@ -2,11 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-qt/qtmultimedia:egl - Enable EGL integration
-dev-qt/qtmultimedia:gstreamer - Enable audio support via media-libs/gstreamer:1.0
-dev-qt/qtmultimedia:gstreamer010 - Enable audio support via media-libs/gstreamer:0.10
-dev-qt/qtmultimedia:qml - Build QML/QtQuick bindings and imports
-dev-qt/qtmultimedia:widgets - Build the QtMultimediaWidgets module
 dev-util/apitrace:cli - Enable command line interface.
 dev-util/apitrace:egl - Enable EGL support
 dev-util/google-perftools:debug - Build a set of libraries with debug support (so-called debugalloc). These are available by default but are not needed unless you're actually developing using tcmalloc.
