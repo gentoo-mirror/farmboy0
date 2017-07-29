@@ -37,9 +37,6 @@ RDEPEND="${PYTHON_DEPS}
 	"
 DEPEND="${RDEPEND}"
 
-DOCS=(
-)
-
 src_install() {
         cmake-utils_src_install
 
