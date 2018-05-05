@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst postrm prepare setup unpack
+DEFINED_PHASES=install nofetch postinst postrm prepare setup unpack
 DESCRIPTION=AMD GPU-Pro kernel module for Radeon Evergreen (HD5000 Series) and newer chipsets
 EAPI=5
 HOMEPAGE=http://support.amd.com/en-us/kb-articles/Pages/AMD-Radeon-GPU-PRO-Linux-Beta-Driver%E2%80%93Release-Notes.aspx
