@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile install postinst unpack
-DEPEND=dev-util/cmake >=dev-lang/python-3 >=dev-vcs/git-1.8.2.1
+DEPEND=dev-util/cmake >=dev-lang/python-3 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Official Vulkan headerfiles, loader, validation layers and sample binaries
 EAPI=6
 HOMEPAGE=https://vulkan.lunarg.com
 KEYWORDS=~amd64
 LICENSE=MIT
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=b38b58b774a6b263bb6fcea454ff4b9e
