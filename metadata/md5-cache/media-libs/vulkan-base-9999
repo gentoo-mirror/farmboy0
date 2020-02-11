@@ -7,5 +7,5 @@ KEYWORDS=~amd64
 LICENSE=MIT
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
 _md5_=b38b58b774a6b263bb6fcea454ff4b9e
