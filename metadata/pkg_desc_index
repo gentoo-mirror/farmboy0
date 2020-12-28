@@ -5,16 +5,17 @@ dev-util/google-breakpad 9999: An open-source multi-platform crash reporting sys
 dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty performance analysis tools
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 games-rpg/morrowind-data 2-r1: The Elder Scrolls III: Morrowind - data extractor
-kde-misc/corectrl 1.0.7 1.1.0 9999: Core control application.
+gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
+kde-misc/corectrl 1.0.7 1.1.0 1.1.1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
-media-libs/FAudio 19.03 19.12: XAudio reimplementation including XAudio2, X3DAudio, XAPO, and XACT3.
+media-libs/FAudio 19.03 19.12 20.12: XAudio reimplementation including XAudio2, X3DAudio, XAPO, and XACT3.
 media-libs/ZMusic 1.1.2 9999: GZDoom's music system as a standalone library
 media-libs/gimp-dds 3.0.1 3.0.1-r1: DirectDraw Surface (DDS) format plugin for Gimp 2
 media-libs/gulkan 9999: A GLib library for Vulkan abstraction.
 media-libs/gxr 9999: A glib wrapper for the OpenVR and soon the OpenXR API.
-media-libs/openvr 1.12.5 9999: OpenVR SDK
+media-libs/openvr 1.12.5 1.14.15 9999: OpenVR SDK
 media-libs/smjpeg 9999: SDL Motion JPEG Library
 media-libs/xrdesktop 9999: A library for XR interaction with traditional desktop compositors.
 sys-fs/vhba 20140928-r1: Virtual (SCSI) Host Bus Adapter kernel module for the CDEmu suite
