@@ -1,6 +1,5 @@
 app-laptop/radeontool 9999: Manage the backlight, external video output and registers of ATI Radeon graphics cards
 dev-libs/json-c 0.11-r2: A JSON implementation in C
-dev-util/apitrace 9999: A tool for tracing, analyzing, and debugging graphics APIs
 dev-util/google-breakpad 9999: An open-source multi-platform crash reporting system
 dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty performance analysis tools
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
@@ -10,7 +9,6 @@ kde-misc/corectrl 1.0.7 1.1.0 1.1.1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
-media-libs/FAudio 19.03 19.12 20.12: XAudio reimplementation including XAudio2, X3DAudio, XAPO, and XACT3.
 media-libs/ZMusic 1.1.2 9999: GZDoom's music system as a standalone library
 media-libs/gimp-dds 3.0.1 3.0.1-r1: DirectDraw Surface (DDS) format plugin for Gimp 2
 media-libs/gulkan 9999: A GLib library for Vulkan abstraction.
