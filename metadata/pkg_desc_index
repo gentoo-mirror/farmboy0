@@ -9,6 +9,7 @@ kde-misc/corectrl 1.0.7 1.1.0 1.1.1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
+media-libs/FAudio 20.12-r1 21.03.05: XAudio reimplementation including XAudio2, X3DAudio, XAPO, and XACT3.
 media-libs/ZMusic 1.1.2 9999: GZDoom's music system as a standalone library
 media-libs/gimp-dds 3.0.1 3.0.1-r1: DirectDraw Surface (DDS) format plugin for Gimp 2
 media-libs/gulkan 9999: A GLib library for Vulkan abstraction.
