@@ -1,5 +1,6 @@
 app-laptop/radeontool 9999: Manage the backlight, external video output and registers of ATI Radeon graphics cards
 dev-libs/json-c 0.11-r2: A JSON implementation in C
+dev-util/apitrace 9999: Tool for tracing, analyzing, and debugging graphics APIs
 dev-util/google-breakpad 9999: An open-source multi-platform crash reporting system
 dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty performance analysis tools
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
