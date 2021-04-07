@@ -6,7 +6,7 @@ dev-util/google-perftools 2.0-r3: Fast, multi-threaded malloc() and nifty perfor
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 games-rpg/morrowind-data 2-r1: The Elder Scrolls III: Morrowind - data extractor
 gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
-kde-misc/corectrl 1.0.7 1.1.0 1.1.1 9999: Core control application.
+kde-misc/corectrl 1.0.7-r1 1.1.0-r1 1.1.1-r1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
