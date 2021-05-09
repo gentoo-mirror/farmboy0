@@ -1,6 +1,5 @@
 dev-util/apitrace 9999: Tool for tracing, analyzing, and debugging graphics APIs
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
-games-rpg/morrowind-data 2-r1: The Elder Scrolls III: Morrowind - data extractor
 kde-misc/corectrl 1.0.7-r1 1.1.0-r1 1.1.1-r1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
