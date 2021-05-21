@@ -1,5 +1,7 @@
 dev-util/apitrace 9999: Tool for tracing, analyzing, and debugging graphics APIs
+dev-util/google-breakpad 9999: An open-source multi-platform crash reporting system
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
+gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 kde-misc/corectrl 1.0.7-r1 1.1.0-r1 1.1.1-r1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
@@ -12,6 +14,7 @@ media-libs/gxr 9999: A glib wrapper for the OpenVR and soon the OpenXR API.
 media-libs/openvr 1.12.5 1.14.15 9999: OpenVR SDK
 media-libs/smjpeg 9999: SDL Motion JPEG Library
 media-libs/xrdesktop 9999: A library for XR interaction with traditional desktop compositors.
+sys-apps/radeontool 9999: Utility to get/set registers and controlling backlight on radeon based GPUs
 sys-fs/vhba 20140928-r1: Virtual (SCSI) Host Bus Adapter kernel module for the CDEmu suite
 sys-kernel/dkms 2.2.0.3: Dynamic Kernel Module Support
 sys-process/procps 3.3.9-r3 3.3.10-r2 3.3.11-r100: standard informational utilities and process-handling tools

@@ -6,5 +6,3 @@ dev-util/apitrace:cli - Enable command line interface.
 media-libs/FAudio:utils - Build utils/ folder.
 media-libs/FAudio:xnasong - Build with XNA_Song.c.
 sys-process/procps:ncurses - Build programs that use ncurses: top, slabtop, watch
-x11-drivers/xf86-video-ati:dri3 - Build with DRI3 support(always on)
-x11-drivers/xf86-video-ati:glamor - Enable Glamor OpenGL 2D acceleration
