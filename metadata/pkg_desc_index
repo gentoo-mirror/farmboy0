@@ -16,6 +16,6 @@ media-libs/smjpeg 9999: SDL Motion JPEG Library
 media-libs/xrdesktop 9999: A library for XR interaction with traditional desktop compositors.
 sys-apps/radeontool 9999: Utility to get/set registers and controlling backlight on radeon based GPUs
 sys-fs/vhba 20140928-r1: Virtual (SCSI) Host Bus Adapter kernel module for the CDEmu suite
-sys-process/procps 3.3.9-r3 3.3.10-r2 3.3.11-r100: standard informational utilities and process-handling tools
+sys-kernel/dkms 2.8.4: Dynamic Kernel Module Support
 x11-libs/libinputsynth 9999: Synthesize keyboard and mouse input on X11 and Wayland with various backends.
 xfce-extra/xfce4-docklike-plugin 9999: https://github.com/nsz32/docklike-plugin

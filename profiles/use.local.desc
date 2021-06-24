@@ -5,4 +5,3 @@
 dev-util/apitrace:cli - Enable command line interface.
 media-libs/FAudio:utils - Build utils/ folder.
 media-libs/FAudio:xnasong - Build with XNA_Song.c.
-sys-process/procps:ncurses - Build programs that use ncurses: top, slabtop, watch
