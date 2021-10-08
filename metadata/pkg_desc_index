@@ -2,7 +2,7 @@ dev-util/apitrace 9999: Tool for tracing, analyzing, and debugging graphics APIs
 dev-util/google-breakpad 9999: An open-source multi-platform crash reporting system
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
-kde-misc/corectrl 1.0.7-r1 1.1.0-r1 1.1.1-r1 1.1.3 9999: Core control application.
+kde-misc/corectrl 1.0.7-r1 1.1.0-r1 1.1.1-r1 1.1.3 1.2.1 9999: Core control application.
 kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
