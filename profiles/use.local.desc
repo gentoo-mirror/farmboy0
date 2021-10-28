@@ -3,5 +3,6 @@
 # * generated automatically using pmaint *
 
 dev-util/apitrace:cli - Enable command line interface.
+games-util/gamescope:pipewire - Enable Screen capture via PipeWire
 media-libs/FAudio:utils - Build utils/ folder.
 media-libs/FAudio:xnasong - Build with XNA_Song.c.
