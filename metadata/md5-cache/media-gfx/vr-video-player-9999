@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DEPEND=media-libs/glm media-libs/glew:0 media-libs/libsdl2 media-libs/openvr x11-libs/libXcomposite x11-libs/libXfixes virtual/pkgconfig
+DESCRIPTION=A vr video player playing stereoscopic videos. Also works for games.
+EAPI=7
+HOMEPAGE=https://git.dec05eba.com/vr-video-player
+INHERIT=git-r3
+LICENSE=DEC05EBA
+PROPERTIES=live
+RDEPEND=media-libs/glm media-libs/glew:0 media-libs/libsdl2 media-libs/openvr x11-libs/libXcomposite x11-libs/libXfixes
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=972a79a29a41ebb807e8b96a84a166c8
