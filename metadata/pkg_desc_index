@@ -1,4 +1,5 @@
 dev-util/apitrace 9999: Tool for tracing, analyzing, and debugging graphics APIs
+dev-util/google-breakpad 9999: An open-source multi-platform crash reporting system
 dev-util/hotspot 9999: a GUI for the Linux perf profiler
 games-util/gamescope 9999: Micro-compositor formerly known as steamcompgr
 gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
