@@ -7,6 +7,7 @@ kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/vr-video-player 9999: A vr video player playing stereoscopic videos. Also works for games.
+media-libs/FAudio 22.08: XAudio reimplementation including XAudio2, X3DAudio, XAPO, and XACT3.
 media-libs/ZMusic 1.1.2 9999: GZDoom's music system as a standalone library
 media-libs/gulkan 9999: A GLib library for Vulkan abstraction.
 media-libs/gxr 9999: A glib wrapper for the OpenVR and soon the OpenXR API.
