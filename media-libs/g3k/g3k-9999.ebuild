@@ -5,8 +5,8 @@ EAPI=7
 
 inherit meson
 
-DESCRIPTION="A glib wrapper for the OpenVR and the OpenXR APIs."
-HOMEPAGE="https://gitlab.freedesktop.org/xrdesktop/gxr"
+DESCRIPTION="A 3DUI widget toolkit."
+HOMEPAGE="https://gitlab.freedesktop.org/xrdesktop/g3k"
 
 if [[ ${PV} == 9999 ]]; then
 	EGIT_REPO_URI="https://gitlab.freedesktop.org/xrdesktop/${PN}.git"
@@ -23,14 +23,14 @@ IUSE=""
 DEPEND="
 	dev-libs/glib
 	dev-libs/json-glib
-	>=media-libs/gulkan-0.16.0
-	media-libs/openxr
-	>=x11-libs/gtk+-3.22
+	>=media-libs/gxr-0.16.0
+	media-libs/libcanberra
+	media-libs/shaderc
+	x11-libs/pango
 "
 RDEPEND="
 	${DEPEND}
 "
 BDEPEND="
-	>=dev-util/meson-0.52.0
 	virtual/pkgconfig
 "
