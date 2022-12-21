@@ -1,14 +1,13 @@
-BDEPEND=virtual/pkgconfig >=dev-util/meson-0.62.2 >=dev-util/ninja-1.8.2 dev-util/meson-format-array >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=>=dev-util/meson-0.52.0 virtual/pkgconfig >=dev-util/meson-0.62.2 >=dev-util/ninja-1.8.2 dev-util/meson-format-array >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install test unpack
-DEPEND=>=media-libs/gulkan-0.13.0 media-libs/openvr >=x11-libs/gtk+-3.22 cairo? ( x11-libs/cairo ) drm? ( x11-libs/libdrm ) egl? ( media-libs/mesa[egl] ) opengl? ( media-libs/glew media-libs/glfw ) X? ( x11-base/xorg-server )
-DESCRIPTION=A glib wrapper for the OpenVR and soon the OpenXR API.
+DEPEND=dev-libs/glib dev-libs/json-glib >=media-libs/gulkan-0.16.0 media-libs/openxr >=x11-libs/gtk+-3.22
+DESCRIPTION=A glib wrapper for the OpenVR and the OpenXR APIs.
 EAPI=7
 HOMEPAGE=https://gitlab.freedesktop.org/xrdesktop/gxr
 INHERIT=meson git-r3
-IUSE=cairo drm egl opengl X
 LICENSE=MIT
 PROPERTIES=live
-RDEPEND=>=media-libs/gulkan-0.13.0 media-libs/openvr >=x11-libs/gtk+-3.22 cairo? ( x11-libs/cairo ) drm? ( x11-libs/libdrm ) egl? ( media-libs/mesa[egl] ) opengl? ( media-libs/glew media-libs/glfw ) X? ( x11-base/xorg-server )
+RDEPEND=dev-libs/glib dev-libs/json-glib >=media-libs/gulkan-0.16.0 media-libs/openxr >=x11-libs/gtk+-3.22
 SLOT=0/9999
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	8ed38f92fe095be374d6c4c8d4c0dda7	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	6a75203e8a499f0fb42971452ce15388	meson	1994a5aef5d4f5798b92f64d6f9a6003	git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=0ac3b261ced6dcfa6e8b85d3952b1bac
+_md5_=cfff304fac3e794239c4476c6ae0a000

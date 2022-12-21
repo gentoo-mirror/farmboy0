@@ -1,13 +1,13 @@
 BDEPEND=virtual/pkgconfig >=dev-util/meson-0.62.2 >=dev-util/ninja-1.8.2 dev-util/meson-format-array >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install test unpack
-DEPEND=dev-lang/python:3.10 dev-python/pygobject >=media-libs/g3k-0.16.0
-DESCRIPTION=A library for XR interaction with traditional desktop compositors.
+DEPEND=dev-libs/glib dev-libs/json-glib >=media-libs/gxr-0.16.0 media-libs/libcanberra media-libs/shaderc x11-libs/pango
+DESCRIPTION=A 3DUI widget toolkit.
 EAPI=7
-HOMEPAGE=https://gitlab.freedesktop.org/xrdesktop/xrdesktop
+HOMEPAGE=https://gitlab.freedesktop.org/xrdesktop/g3k
 INHERIT=meson git-r3
 LICENSE=MIT
 PROPERTIES=live
-RDEPEND=dev-lang/python:3.10 dev-python/pygobject >=media-libs/g3k-0.16.0
+RDEPEND=dev-libs/glib dev-libs/json-glib >=media-libs/gxr-0.16.0 media-libs/libcanberra media-libs/shaderc x11-libs/pango
 SLOT=0/9999
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	8ed38f92fe095be374d6c4c8d4c0dda7	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	6a75203e8a499f0fb42971452ce15388	meson	1994a5aef5d4f5798b92f64d6f9a6003	git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=6ce8fd45bd0fd045dfbc4f738f586380
+_md5_=ea0c32ce66adb15510eb4c16dced0c63
