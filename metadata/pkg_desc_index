@@ -3,6 +3,7 @@ dev-util/google-breakpad 9999: An open-source multi-platform crash reporting sys
 games-util/gamescope 9999: Micro-compositor formerly known as steamcompgr
 gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 kde-misc/corectrl 1.3.1-r2 9999: Core control application.
+kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/vr-video-player 9999: A vr video player playing stereoscopic videos. Also works for games.
 media-libs/FAudio 22.08: XAudio reimplementation including XAudio2, X3DAudio, XAPO, and XACT3.
