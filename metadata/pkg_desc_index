@@ -3,6 +3,7 @@ dev-util/google-breakpad 9999: An open-source multi-platform crash reporting sys
 games-util/gamescope 9999: Micro-compositor formerly known as steamcompgr
 gnome-extra/yad 7.3: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 kde-misc/corectrl 1.3.1-r2 9999: Core control application.
+kde-misc/plasma-applet-xrdesktop 9999: xrdesktop applet for KDE Plasma.
 kde-plasma/kwin-effect-xrdesktop 9999: xrdesktop effect for KWin.
 media-gfx/byzanz 0.3.0.9999: Screencasting program that saves casts as GIF files
 media-gfx/vr-video-player 9999: A vr video player playing stereoscopic videos. Also works for games.
@@ -11,6 +12,7 @@ media-libs/ZMusic 1.1.2 9999: GZDoom's music system as a standalone library
 media-libs/g3k 9999: A 3DUI widget toolkit.
 media-libs/gulkan 9999: A GLib library for Vulkan abstraction.
 media-libs/gxr 9999: A glib wrapper for the OpenVR and the OpenXR APIs.
+media-libs/libsurvive 9999: Open Source Lighthouse Tracking System
 media-libs/openvr 1.12.5 1.14.15 9999: OpenVR SDK
 media-libs/openxr 1.0.26: Sources for OpenXR loader, basic API layers, and example code.
 media-libs/smjpeg 9999: SDL Motion JPEG Library
