@@ -13,6 +13,7 @@ media-libs/g3k 9999: A 3DUI widget toolkit.
 media-libs/gulkan 9999: A GLib library for Vulkan abstraction.
 media-libs/gxr 9999: A glib wrapper for the OpenVR and the OpenXR APIs.
 media-libs/libsurvive 9999: Open Source Lighthouse Tracking System
+media-libs/monado 9999: The open source OpenXR runtime.
 media-libs/openvr 1.12.5 1.14.15 9999: OpenVR SDK
 media-libs/openxr 1.0.26: Sources for OpenXR loader, basic API layers, and example code.
 media-libs/smjpeg 9999: SDL Motion JPEG Library

@@ -7,3 +7,10 @@ games-util/gamescope:pipewire - Enable Screen capture via PipeWire
 kde-misc/corectrl:pcinames - Enable GPU names from the pci database.
 media-libs/FAudio:utils - Build utils/ folder.
 media-libs/FAudio:xnasong - Build with XNA_Song.c.
+media-libs/monado:default - Set as default OpenXR runtime.
+media-libs/monado:euroc - Build EuRoC dataset driver.
+media-libs/monado:gles - Enable support for OpenGL-ES.
+media-libs/monado:hidapi - Build drivers depending on hidapi (PSVR and RiftS).
+media-libs/monado:uvc - Build livuvc for camera support.
+media-libs/monado:vive - Build driver for Vive/Index.
+media-libs/monado:vulkan - Enable vulkan support.
