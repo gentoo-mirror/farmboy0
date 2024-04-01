@@ -9,5 +9,5 @@ LICENSE=DEC05EBA
 PROPERTIES=live
 RDEPEND=media-libs/glew:0 media-libs/glm media-libs/libsdl2 media-libs/openvr media-video/mpv x11-libs/libXcomposite x11-libs/libXfixes
 SLOT=0
-_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
 _md5_=e10d3cf2e54038e687790469c3607ede
