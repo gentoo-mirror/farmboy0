@@ -11,5 +11,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=>=x11-libs/libXdamage-1.0 >=dev-libs/glib-2.16:2 x11-libs/gtk+:3 media-libs/gst-plugins-base:* media-libs/gst-plugins-good:* >=x11-libs/cairo-1.8.10
 SLOT=0
-_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	toolchain-funcs	5f8f1dc0c94e007fa08af4e98a19d0e5	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	26fd01914b36038dc8e964ff4bd03a95	gnuconfig	a397adda6984a4c423e28ac274c1ba98	autotools	d12ccbad07b44642a75ac97a3334d8e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	toolchain-funcs	333970c740aa7b1a92e4fcdc52f612bd	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	4a14c5c24f121e7da66e5aab4a168c6e	gnome2	26fd01914b36038dc8e964ff4bd03a95	gnuconfig	a397adda6984a4c423e28ac274c1ba98	autotools	d12ccbad07b44642a75ac97a3334d8e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d
 _md5_=012c4c1e57cce3fef068053925f71f9e
