@@ -15,7 +15,7 @@ media-libs/gxr 9999: A glib wrapper for the OpenVR and the OpenXR APIs.
 media-libs/libsurvive 9999: Open Source Lighthouse Tracking System
 media-libs/monado 9999: The open source OpenXR runtime.
 media-libs/openvr 1.12.5 1.14.15 1.26.7 2.5.1 9999: OpenVR SDK
-media-libs/openxr 1.0.32 1.0.34 1.1.36: Sources for OpenXR loader, basic API layers, and example code.
+media-libs/openxr 1.0.32 1.0.34 1.1.36 1.1.37 1.1.38 1.1.40 1.1.41 1.1.42: Sources for OpenXR loader, basic API layers, and example code.
 media-libs/smjpeg 9999: SDL Motion JPEG Library
 media-libs/xrdesktop 9999: A library for XR interaction with traditional desktop compositors.
 sys-apps/radeontool 9999: Utility to get/set registers and controlling backlight on radeon based GPUs
