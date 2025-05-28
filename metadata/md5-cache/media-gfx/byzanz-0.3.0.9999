@@ -1,4 +1,4 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=app-portage/elt-patches-20250306 app-arch/xz-utils sys-devel/gnuconfig >=app-portage/elt-patches-20250306 || ( >=dev-build/automake-1.17-r1:1.17 >=dev-build/automake-1.16.5:1.16 ) || ( >=dev-build/autoconf-2.72-r1:2.72 ) >=dev-build/libtool-2.4.7-r3
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=app-portage/elt-patches-20250306 app-arch/xz-utils sys-devel/gnuconfig >=app-portage/elt-patches-20250306 || ( >=dev-build/automake-1.18:1.18 >=dev-build/automake-1.17-r1:1.17 ) || ( >=dev-build/autoconf-2.72-r1:2.72 ) >=dev-build/libtool-2.4.7-r3
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare unpack
 DEPEND=>=x11-libs/libXdamage-1.0 >=dev-libs/glib-2.16:2 x11-libs/gtk+:3 media-libs/gst-plugins-base:* media-libs/gst-plugins-good:* >=x11-libs/cairo-1.8.10 virtual/pkgconfig dev-util/intltool x11-base/xorg-proto
 DESCRIPTION=Screencasting program that saves casts as GIF files
@@ -11,5 +11,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=>=x11-libs/libXdamage-1.0 >=dev-libs/glib-2.16:2 x11-libs/gtk+:3 media-libs/gst-plugins-base:* media-libs/gst-plugins-good:* >=x11-libs/cairo-1.8.10
 SLOT=0
-_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	libtool	c81bd096be5f4c82f4e8f156ef112402	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575	gnome2	26fd01914b36038dc8e964ff4bd03a95	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	autotools	35f9bf6198bb538e28dcdea5fda274f2	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	libtool	c81bd096be5f4c82f4e8f156ef112402	gnome.org	e1b4f392dbfedfb8974b71b017937f08	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	xdg	3ef49a87c52c8b77c476351195dfe575	gnome2	26fd01914b36038dc8e964ff4bd03a95	gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	autotools	216128ca9bbff45fbea22427005310c7	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
 _md5_=012c4c1e57cce3fef068053925f71f9e
