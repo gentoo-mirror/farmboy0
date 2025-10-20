@@ -1,0 +1,14 @@
+BDEPEND=>=dev-build/cmake-3.10.2 app-alternatives/ninja >=dev-build/cmake-3.28.5
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=media-libs/vulkan-loader media-libs/mesa wayland? ( dev-libs/wayland dev-libs/wayland-protocols dev-util/wayland-scanner ) X? ( x11-libs/libxcb x11-libs/xcb-util-keysyms x11-libs/libXrandr x11-libs/libXxf86vm )
+DESCRIPTION=Sources for OpenXR loader, basic API layers, and example code.
+EAPI=8
+HOMEPAGE=https://github.com/KhronosGroup/OpenXR-SDK-Source
+INHERIT=cmake
+IUSE=layers +wayland +X
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+SLOT=0
+SRC_URI=https://github.com/KhronosGroup/OpenXR-SDK-Source/archive/refs/tags/release-1.1.50.tar.gz -> openxr-1.1.50.tar.gz
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	c34c4b7abe27f71d1e7770f36cc51eed
+_md5_=c661b228d740f63b9a72c83b5ea69e0b
